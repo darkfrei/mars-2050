@@ -3,10 +3,11 @@ local sun={}
 table.insert(space, sun)
 sun.name="sun"
 sun.buddy_names = 
-{"mercury", "venus", "earth", "mars", 
-  "ceres", "pallas", "juno", "vesta", 
+{"mercury", "venus", "earth", "mars",
+  "ceres", "pallas", "juno", "vesta",
+  "eris", "haumea", "makemake",
   "jupiter", "saturn", "uranus", "neptune", "pluto"}
-
+-- dwarf planets: Ceres, Pluto, Eris, Haumea, and Makemake.
 local earth={}
 table.insert(space, earth)
 earth.name="earth"
