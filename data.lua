@@ -34,3 +34,25 @@ moon.orbit.rockets={}
 moon.orbit.satellites={}
 moon.orbit.stations={}
 
+local mars={}
+table.insert(space, mars)
+mars.name="mars"
+mars.system="sun"
+mars.buildings={}
+
+mars.rockets={}
+
+mars.orbit={}
+
+mars.orbit.rockets={}
+
+mars.orbit.satellites={}
+
+mars.orbit.stations={}
+
+
+
+
+
+
+
