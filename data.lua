@@ -11,7 +11,9 @@ sun.buddy_names =
 local earth={}
 table.insert(space, earth)
 earth.name="earth"
+earth.selfspeed=86164 -- 23h 56m 04s
 earth.system="sun"
+earth.systemspeed=31536000
 earth.buddy_names={"moon"}
 earth.buildings={}
 earth.rockets={}
