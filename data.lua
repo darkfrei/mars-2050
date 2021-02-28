@@ -14,4 +14,3 @@ earth.rockets={}
 earth.orbit={}
 earth.orbit.rockets={}
 
-local planet_names = {}
