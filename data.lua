@@ -25,7 +25,9 @@ earth.orbit.stations={}
 local moon={}
 table.insert(space, moon)
 moon.name="moon"
+moon.selfperiod=27.322*86164
 moon.system="earth"
+moon.systemperiod=27.322*86164
 moon.orbit_radius=384.5*1000*1000 -- m
 moon.buildings={}
 moon.rockets={}
@@ -38,6 +40,7 @@ local mars={}
 table.insert(space, mars)
 mars.name="mars"
 mars.system="sun"
+mars.systemperiod=686.98*86164
 mars.buildings={}
 
 mars.rockets={}
