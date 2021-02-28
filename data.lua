@@ -13,7 +13,7 @@ table.insert(space, earth)
 earth.name="earth"
 earth.selfperiod=86164 -- 23h 56m 04s
 earth.system="sun"
-earth.systemperiod=31536000
+earth.systemperiod=31536000 -- s; 31558153 - year
 earth.buddy_names={"moon"}
 earth.buildings={}
 earth.rockets={}
