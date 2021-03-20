@@ -1,3 +1,5 @@
+world = require ("world")
+
 function love.load()
 	
 end
